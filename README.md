@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t6bWI5eGkwczVsaTg0Zmx5c2JlMTJ1NW9mOWQ2OXZkNzVla2Q3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Vutp7Tvkho2yxqMHB/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassaanrz10&label=Profile%20views&color=0e75b6&style=flat" alt="hassaanrz10" /> </p>
+
 
 - 🔭 I’m currently working on **2-d rpg game development.**
 
