@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **2-d rpg game development and I'm also interested in cp.**
+- 🔭 I’m currently working on **2-d rpg game development and I'm also interested in competetive programming.**
 
 - 🌱 I’m currently learning **Kotlin, Android studio, Unity.**
 
