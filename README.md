@@ -3,19 +3,19 @@
 </p>
 
 <h1 align="center">Hi , I'm Hassaan Raza</h1>
-<h3 align="center">A passionate Game and App developer.</h3>
+<h3 align="center">A passionate Game developer and Competetive programmer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t6bWI5eGkwczVsaTg0Zmx5c2JlMTJ1NW9mOWQ2OXZkNzVla2Q3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Vutp7Tvkho2yxqMHB/giphy.gif">
 
 
 
-- 🔭 I’m currently working on **2-d rpg game development and I'm also interested in competetive programming.**
+- I’m currently working on **2-d rpg game development and I'm also interested in competetive programming.**
 
-- 🌱 I’m currently learning **Kotlin, Android studio, Unity.**
+- I’m currently learning **Kotlin, Android studio, Unity.**
 
-- 📫 How to reach me **hassaanr721@gmail.com**
+- How to reach me **hassaanr721@gmail.com**
 
-- ⚡ Fun fact: **I love junk food.**
+- Fun fact: **I love junk food.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
